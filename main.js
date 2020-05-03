@@ -7,3 +7,4 @@ new ScrollMagic.Scene({
 })
     .setPin('#my-sticky-element') // pins the element for the the scene's duration
     .addTo(controller); 
+
